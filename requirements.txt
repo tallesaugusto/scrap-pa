@@ -1,0 +1,4 @@
+requests
+pandas
+openpyxl
+pg8000
